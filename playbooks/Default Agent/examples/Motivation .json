@@ -1,0 +1,16 @@
+{
+  "name": "51608753-8a72-4c30-9712-2fd03f942241",
+  "actions": [ {
+    "userUtterance": {
+      "text": "I need motivation"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "### Nothing is impossible. The word itself says 'I'm possible! 🚀"
+    }
+  } ],
+  "displayName": "Motivation ",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

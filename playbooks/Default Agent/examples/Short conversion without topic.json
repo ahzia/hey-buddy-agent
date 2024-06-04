@@ -1,0 +1,50 @@
+{
+  "name": "220a2729-3273-476b-b2da-b1e5b8cbf2ed",
+  "actions": [ {
+    "userUtterance": {
+      "text": "hi"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "### Hi there! 😊\nI'm your AI buddy.  is there something I can assist you with?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "What you can do for me?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "I can help you with a variety of tasks including:\n- Summarizing the content of articles\n- Answering your technical questions\n- Providing additional information on different topics\n- Checking your knowledge\n- Motivating you to learn more\n- Providing emotional support"
+    }
+  }, {
+    "userUtterance": {
+      "text": "I want to know what is HTML"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "HTML (Hypertext Markup Language) is the code that is used to create web pages. It is a markup language, which means that it uses tags to define the structure and content of a web page. HTML tags are used to create headings, paragraphs, lists, links, images, and other elements of a web page."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Thanks"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "You're welcome! Is there anything else I can help you with today?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "No, Thanks, it was great talking to you."
+    }
+  }, {
+    "agentUtterance": {
+      "text": "It was great talking to you too! Have a great day! 👋"
+    }
+  } ],
+  "playbookOutput": {
+    "executionSummary": "Thanks for chatting! Have a great day! 👋"
+  },
+  "displayName": "Short conversion without topic",
+  "retrievalStrategy": "STATIC",
+  "languageCode": "en"
+}

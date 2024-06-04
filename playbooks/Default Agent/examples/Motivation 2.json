@@ -1,0 +1,50 @@
+{
+  "name": "f25a5022-68be-4c8f-a3e5-0d95878c74d7",
+  "actions": [ {
+    "userUtterance": {
+      "text": "I am feeling demotivated today"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Hi there! I'm sorry to hear that you're feeling demotivated today. I'm here to help you get through this. What seems to be the problem?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "I am not sure I need some motivation"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "I understand. Sometimes it can be hard to stay motivated. Here are a few things that might help:\n- Set small, achievable goals for yourself.\n- Break down large tasks into smaller, more manageable ones.\n- Reward yourself for your accomplishments.\n- Find a support system of friends or family who can encourage you.\n- Take some time for yourself to relax and de-stress."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you tell me some motivation Quotes"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Sure, here are some motivational quotes to help you get through your day: 👇\n\n- \"The only person you are destined to become is the person you decide to be.\" - Ralph Waldo Emerson\n\n- \"The greatest glory in living lies not in never falling, but in rising every time we fall.\" - Nelson Mandela\n\n- \"The future belongs to those who believe in the beauty of their dreams.\" - Eleanor Roosevelt\n\n- \"Don't be afraid to fail. It's not the end of the world, and in many ways, it's the first step toward learning something and getting better at it.\" - Jon Hamm\n"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Thanks a lot, It helped me."
+    }
+  }, {
+    "agentUtterance": {
+      "text": "You're welcome! I'm glad I could help. Is there anything else I can assist you with today?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "No Thanks"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Thanks for chatting, Have a great day! 👋"
+    }
+  } ],
+  "playbookOutput": {
+    "executionSummary": "Thanks for chatting! Have a great day! 👋"
+  },
+  "displayName": "Motivation 2",
+  "retrievalStrategy": "STATIC",
+  "languageCode": "en"
+}
